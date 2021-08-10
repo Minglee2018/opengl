@@ -1,0 +1,6 @@
+[submodule "GL_Tanks"]
+	path = GL_Tanks
+	url = https://github.com/ChrisCooper/GL_Tanks.git
+[submodule "3Dcity-in-OpenGL"]
+	path = 3Dcity-in-OpenGL
+	url = https://github.com/tars400/3Dcity-in-OpenGL.git
